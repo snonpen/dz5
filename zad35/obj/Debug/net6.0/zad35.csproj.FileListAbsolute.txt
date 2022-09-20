@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\dz5\zad35\bin\Debug\net6.0\zad35.exe
+C:\Users\Александр\Desktop\dz5\zad35\bin\Debug\net6.0\zad35.deps.json
+C:\Users\Александр\Desktop\dz5\zad35\bin\Debug\net6.0\zad35.runtimeconfig.json
+C:\Users\Александр\Desktop\dz5\zad35\bin\Debug\net6.0\zad35.dll
+C:\Users\Александр\Desktop\dz5\zad35\bin\Debug\net6.0\zad35.pdb
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\zad35.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\zad35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\zad35.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\zad35.AssemblyInfo.cs
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\zad35.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\zad35.dll
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\refint\zad35.dll
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\zad35.pdb
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\zad35.genruntimeconfig.cache
+C:\Users\Александр\Desktop\dz5\zad35\obj\Debug\net6.0\ref\zad35.dll
